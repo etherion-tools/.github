@@ -1,7 +1,9 @@
 # Etherion Tools
 
-Etherion Tools is an open-source Web3 developer toolkit - modular smart-contract templates, a unified blockchain SDK and wallet integrations to speed up dApp development. Built by a team of Web3 developers, we’re improving existing protocols and tools.
+Forging next-generation open-source web3 tools that bridge blockchain ecosystems while prioritizing developer productivity and user experience. Etherion Tools creates elegant solutions that empower users across the web3 landscape, making complex blockchain technology more accessible, fun and efficient.
 
 Some of our key projects:
 
-- [etherion-tools/DEV-bot](https://github.com/etherion-tools/DEV-bot) – Discord bot for the scoutgame token DEV
+- [DEV-bot](https://github.com/etherion-tools/DEV-bot) – Discord bot for the scoutgame token DEV
+- [ScoutLens](https://github.com/etherion-tools/ScoutLens) – Enhanced & Experimental ScoutGame UI extension
+- [DEVoter](https://github.com/etherion-tools/DEVoter) – Decentralised repo voting platform
