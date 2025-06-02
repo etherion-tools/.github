@@ -6,4 +6,3 @@ Some of our key projects:
 
 - [DEV-bot](https://github.com/etherion-tools/DEV-bot) – Discord bot for the scoutgame token DEV
 - [ScoutLens](https://github.com/etherion-tools/ScoutLens) – Enhanced & Experimental ScoutGame UI extension
-- [DEVoter](https://github.com/etherion-tools/DEVoter) – Decentralised repo voting platform
